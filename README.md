@@ -17,5 +17,5 @@ This bot is for forward video and media from channel to another easly by id mess
 
 ## Deploy
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/yadianluffy/MassiveForward)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AkRao47/In-Mass-Forwardingnn)
 
